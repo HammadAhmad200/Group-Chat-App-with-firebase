@@ -1,4 +1,4 @@
-# untitled
+# ICONIC CHAT APP
 
 A new Flutter project.
 
